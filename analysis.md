@@ -32,7 +32,7 @@ Below are the FCFS.cpp, given input and its output:
 
 Output:
 
-![result](/result/fcfs.png)
+![Result](/Result/fcfs.png)
 
 
 
@@ -61,7 +61,7 @@ Below are the SJF.cpp, given input and its output:
 
 Output:
 
-![result](/result/sjf.png)
+![result](/Result/sjf.png)
 
 
 ## Priority Scheduling
@@ -85,7 +85,7 @@ Below are the Priority.cpp, given input and its output:
 
 Output:
 
-![result](/result/Priority.png)
+![result](/Result/Priority.png)
 
 
 

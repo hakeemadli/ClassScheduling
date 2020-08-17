@@ -32,7 +32,7 @@ Below are the FCFS.cpp, given input and its output:
 
 Output:
 
-![](/Users/hakeemadli/Desktop/Screenshot 2020-08-16 at 11.21.19 PM.png)
+![result](/result/fcfs.png)
 
 
 
@@ -61,7 +61,8 @@ Below are the SJF.cpp, given input and its output:
 
 Output:
 
-![](/Users/hakeemadli/Desktop/Screenshot 2020-08-16 at 11.33.49 PM.png)
+![result](/result/sjf.png)
+
 
 ## Priority Scheduling
 
@@ -84,7 +85,8 @@ Below are the Priority.cpp, given input and its output:
 
 Output:
 
-![](/Users/hakeemadli/Desktop/Screenshot 2020-08-16 at 11.28.10 PM.png)
+![result](/result/Priority.png)
+
 
 
 

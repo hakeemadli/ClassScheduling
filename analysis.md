@@ -51,7 +51,7 @@ Output:
 **Disadvantages**
 
 * Impossible to implement in interactive systems where required CPU time is not known.
-* Can cause process starvations, where,
+* Can cause process starvations, where, the process with higher burst time had to wait for long time in the ready queue.
 
 **Result**
 
